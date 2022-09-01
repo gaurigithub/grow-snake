@@ -1,0 +1,20 @@
+Snake Game TODOs
+
+- [x] Create board
+    - [x] 2-D array : Matrix representation
+- [x] Create snake
+    - [x] snake structured by Singly linked list 
+    - [x] snake growth - adding node to linked list
+    - [x] snake direction reversal - after snake eats a poisoned food it reverses
+- [x] Styles
+    - [x] Snake cells
+    - [x] Food cells
+- [x] keydown -> what they use in js 
+- [x] movements
+- [x] food consumption
+- [x] death
+- [x] score - counter # food items consumed
+- [x] game start and game reset 
+
+
+==== completed more frontend work needed maybe (TODO) ====
